@@ -23,7 +23,7 @@
     "url": "https://github.com/thebakeryio/react-native-navigation-redux-helpers/issues"
   },
   "dependencies": {
-    "react-native-navigation-experimental-compat": "^1.1.0",
+    "react-native-navigation-experimental-compat": "^1.1.0"
   },
   "homepage": "https://github.com/thebakeryio/react-native-navigation-redux-helpers",
   "devDependencies": {
